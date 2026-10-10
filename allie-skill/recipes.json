@@ -2,8 +2,8 @@
   {
     "id": "r1",
     "name": "Chicken Rice Bowls",
-    "emoji": "🍗",
-    "description": "Simple seasoned chicken over fluffy rice with sautéed vegetables. A filling, budget-friendly dinner.",
+    "emoji": "\ud83c\udf57",
+    "description": "Simple seasoned chicken over fluffy rice with saut\u00e9ed vegetables. A filling, budget-friendly dinner.",
     "tags": [
       "Dinner",
       "High Protein",
@@ -68,8 +68,8 @@
     "instructions": [
       "Cook rice according to package directions.",
       "Season chicken with salt, pepper, and half the soy sauce. Cut into bite-sized pieces.",
-      "Heat olive oil in a large skillet over medium-high heat. Cook chicken until golden, about 6–7 minutes.",
-      "Add diced bell peppers and garlic. Sauté 3–4 minutes until tender.",
+      "Heat olive oil in a large skillet over medium-high heat. Cook chicken until golden, about 6\u20137 minutes.",
+      "Add diced bell peppers and garlic. Saut\u00e9 3\u20134 minutes until tender.",
       "Drizzle remaining soy sauce over everything and toss to coat.",
       "Serve chicken and vegetables over rice."
     ]
@@ -77,7 +77,7 @@
   {
     "id": "r2",
     "name": "Tomato Pasta",
-    "emoji": "🍝",
+    "emoji": "\ud83c\udf5d",
     "description": "Classic pasta in a quick homemade tomato sauce with garlic and basil.",
     "tags": [
       "Dinner",
@@ -151,7 +151,7 @@
   {
     "id": "r3",
     "name": "Sheet-Pan Fajitas",
-    "emoji": "🌮",
+    "emoji": "\ud83c\udf2e",
     "description": "Colorful peppers and seasoned chicken roasted on one pan. Weeknight dinner in 30 minutes.",
     "tags": [
       "Dinner",
@@ -215,7 +215,7 @@
       }
     ],
     "instructions": [
-      "Preheat oven to 425°F.",
+      "Preheat oven to 425\u00b0F.",
       "Slice chicken, peppers, and onion into strips.",
       "Toss with olive oil, cumin, chili powder, and salt on a sheet pan.",
       "Roast 20 minutes, tossing halfway through.",
@@ -225,7 +225,7 @@
   {
     "id": "r4",
     "name": "Oatmeal with Banana & Honey",
-    "emoji": "🥣",
+    "emoji": "\ud83e\udd63",
     "description": "Warm, creamy oatmeal topped with sliced banana, a drizzle of honey, and a pinch of cinnamon.",
     "tags": [
       "Breakfast",
@@ -272,14 +272,14 @@
     ],
     "instructions": [
       "Combine oats and milk in a small pot. Bring to a simmer over medium heat.",
-      "Cook 4–5 minutes, stirring occasionally, until thick and creamy.",
+      "Cook 4\u20135 minutes, stirring occasionally, until thick and creamy.",
       "Pour into a bowl. Top with sliced banana, honey, and cinnamon."
     ]
   },
   {
     "id": "r5",
     "name": "Black Bean Tacos",
-    "emoji": "🌯",
+    "emoji": "\ud83c\udf2f",
     "description": "Seasoned black beans in warm tortillas with fresh toppings. Ready in 15 minutes.",
     "tags": [
       "Lunch",
@@ -347,7 +347,7 @@
   {
     "id": "r6",
     "name": "Egg Fried Rice",
-    "emoji": "🍳",
+    "emoji": "\ud83c\udf73",
     "description": "Day-old rice stir-fried with eggs, vegetables, and soy sauce. Perfect for using leftovers.",
     "tags": [
       "Dinner",
@@ -408,14 +408,14 @@
     "instructions": [
       "Heat a large skillet or wok over high heat. Scramble eggs and set aside.",
       "Add a bit of oil, then frozen vegetables and garlic. Stir-fry 2 minutes.",
-      "Add cold rice, breaking up clumps. Cook 3–4 minutes until heated through.",
+      "Add cold rice, breaking up clumps. Cook 3\u20134 minutes until heated through.",
       "Add soy sauce and sesame oil. Toss in scrambled eggs and sliced green onions."
     ]
   },
   {
     "id": "r7",
     "name": "Greek Yogurt Parfait",
-    "emoji": "🫐",
+    "emoji": "\ud83e\uded0",
     "description": "Layered Greek yogurt with granola and fresh berries. A protein-packed morning start.",
     "tags": [
       "Breakfast",
@@ -463,7 +463,7 @@
   {
     "id": "r8",
     "name": "Lentil Soup",
-    "emoji": "🍲",
+    "emoji": "\ud83c\udf72",
     "description": "Hearty red lentil soup with carrots and warm spices. Makes great leftovers.",
     "tags": [
       "Lunch",
@@ -534,7 +534,7 @@
       }
     ],
     "instructions": [
-      "Heat olive oil in a large pot. Sauté diced onion and carrots 5 minutes.",
+      "Heat olive oil in a large pot. Saut\u00e9 diced onion and carrots 5 minutes.",
       "Add garlic, cumin, and turmeric. Cook 1 minute until fragrant.",
       "Add lentils and broth. Bring to a boil, then simmer 25 minutes until lentils are soft.",
       "Blend partially for a creamy-chunky texture. Season with salt and lemon juice."
@@ -543,7 +543,7 @@
   {
     "id": "r9",
     "name": "Peanut Butter Toast with Banana",
-    "emoji": "🥜",
+    "emoji": "\ud83e\udd5c",
     "description": "Crunchy toast with peanut butter, sliced banana, and a drizzle of honey.",
     "tags": [
       "Breakfast",
@@ -591,7 +591,7 @@
   {
     "id": "r10",
     "name": "One-Pot Chili",
-    "emoji": "🫘",
+    "emoji": "\ud83e\uded8",
     "description": "A thick, hearty chili with ground beef, beans, and tomatoes. Warm and satisfying.",
     "tags": [
       "Dinner",
@@ -665,7 +665,7 @@
   {
     "id": "r11",
     "name": "Veggie Stir-Fry",
-    "emoji": "🥦",
+    "emoji": "\ud83e\udd66",
     "description": "Crisp mixed vegetables in a savory soy-ginger sauce over rice.",
     "tags": [
       "Dinner",
@@ -732,14 +732,14 @@
       "Cook rice according to package directions.",
       "Heat sesame oil in a large skillet or wok over high heat.",
       "Add carrots first (they take longest), then broccoli and snap peas.",
-      "Stir-fry 4–5 minutes until crisp-tender.",
+      "Stir-fry 4\u20135 minutes until crisp-tender.",
       "Add garlic, ginger, and soy sauce. Toss 1 minute. Serve over rice."
     ]
   },
   {
     "id": "r12",
     "name": "Scrambled Eggs on Toast",
-    "emoji": "🥚",
+    "emoji": "\ud83e\udd5a",
     "description": "Fluffy scrambled eggs on buttered toast. The classic quick breakfast.",
     "tags": [
       "Breakfast",
@@ -794,7 +794,7 @@
   {
     "id": "r13",
     "name": "Chicken Quesadillas",
-    "emoji": "🧀",
+    "emoji": "\ud83e\uddc0",
     "description": "Crispy tortillas filled with seasoned chicken, melted cheese, and peppers.",
     "tags": [
       "Lunch",
@@ -848,14 +848,14 @@
     "instructions": [
       "Season chicken with cumin and salt. Cook in olive oil over medium heat until done, about 6 minutes per side. Shred or dice.",
       "Lay tortillas flat. Add chicken, diced peppers, and cheese on one half.",
-      "Fold and cook in a dry skillet 2–3 minutes per side until golden and cheese melts.",
+      "Fold and cook in a dry skillet 2\u20133 minutes per side until golden and cheese melts.",
       "Cut into wedges and serve."
     ]
   },
   {
     "id": "r14",
     "name": "Overnight Oats",
-    "emoji": "🥛",
+    "emoji": "\ud83e\udd5b",
     "description": "Creamy no-cook oats prepared the night before. Grab and go in the morning.",
     "tags": [
       "Breakfast",
@@ -915,8 +915,8 @@
   {
     "id": "r15",
     "name": "Spaghetti Aglio e Olio",
-    "emoji": "🧄",
-    "description": "Italian classic — spaghetti tossed with garlic, olive oil, and red pepper flakes.",
+    "emoji": "\ud83e\uddc4",
+    "description": "Italian classic \u2014 spaghetti tossed with garlic, olive oil, and red pepper flakes.",
     "tags": [
       "Dinner",
       "Vegan",
@@ -969,7 +969,7 @@
     "instructions": [
       "Cook spaghetti in well-salted water until al dente. Reserve 1 cup pasta water.",
       "While pasta cooks, slice garlic thinly. Heat olive oil in a large pan over medium-low.",
-      "Add garlic and red pepper flakes. Cook gently 3–4 minutes until garlic is golden (not brown).",
+      "Add garlic and red pepper flakes. Cook gently 3\u20134 minutes until garlic is golden (not brown).",
       "Toss drained pasta into the pan with garlic oil. Add pasta water a splash at a time until silky.",
       "Finish with chopped parsley and serve."
     ]
@@ -977,7 +977,7 @@
   {
     "id": "r16",
     "name": "Turkey & Cheese Wraps",
-    "emoji": "🥙",
+    "emoji": "\ud83e\udd59",
     "description": "Quick lunch wraps with deli turkey, cheese, lettuce, and mustard.",
     "tags": [
       "Lunch",
@@ -1030,7 +1030,7 @@
   {
     "id": "r17",
     "name": "Baked Salmon with Asparagus",
-    "emoji": "🐟",
+    "emoji": "\ud83d\udc1f",
     "description": "Lemon-herb salmon fillets roasted alongside asparagus on a single sheet pan.",
     "tags": [
       "Dinner",
@@ -1089,16 +1089,16 @@
       }
     ],
     "instructions": [
-      "Preheat oven to 400°F. Line a sheet pan with parchment.",
+      "Preheat oven to 400\u00b0F. Line a sheet pan with parchment.",
       "Arrange salmon and trimmed asparagus on the pan.",
       "Drizzle with olive oil, minced garlic, dill, salt, and lemon juice.",
-      "Bake 12–15 minutes until salmon flakes easily."
+      "Bake 12\u201315 minutes until salmon flakes easily."
     ]
   },
   {
     "id": "r18",
     "name": "Banana Smoothie",
-    "emoji": "🍌",
+    "emoji": "\ud83c\udf4c",
     "description": "Creamy banana smoothie with peanut butter and milk. Ready in 2 minutes.",
     "tags": [
       "Breakfast",
@@ -1146,7 +1146,7 @@
   {
     "id": "r19",
     "name": "Sweet Potato & Black Bean Bowl",
-    "emoji": "🍠",
+    "emoji": "\ud83c\udf60",
     "description": "Roasted sweet potatoes over seasoned black beans with avocado and lime.",
     "tags": [
       "Lunch",
@@ -1211,7 +1211,7 @@
       }
     ],
     "instructions": [
-      "Preheat oven to 425°F. Cube sweet potatoes, toss with olive oil and cumin, and roast 25 minutes.",
+      "Preheat oven to 425\u00b0F. Cube sweet potatoes, toss with olive oil and cumin, and roast 25 minutes.",
       "Cook rice. Heat black beans in a small pot.",
       "Assemble bowls: rice, black beans, roasted sweet potato.",
       "Top with sliced avocado, cilantro, and a squeeze of lime."
@@ -1220,7 +1220,7 @@
   {
     "id": "r20",
     "name": "Grilled Cheese & Tomato Soup",
-    "emoji": "🥪",
+    "emoji": "\ud83e\udd6a",
     "description": "The comfort food classic. Buttery grilled cheese with a mug of warm tomato soup.",
     "tags": [
       "Lunch",
@@ -1276,7 +1276,7 @@
   {
     "id": "r21",
     "name": "Mediterranean Chickpea Salad",
-    "emoji": "🥗",
+    "emoji": "\ud83e\udd57",
     "description": "Cool, crunchy salad with chickpeas, cucumber, tomato, and feta in a lemon dressing.",
     "tags": [
       "Lunch",
@@ -1350,7 +1350,7 @@
   {
     "id": "r22",
     "name": "Beef & Broccoli",
-    "emoji": "🥩",
+    "emoji": "\ud83e\udd69",
     "description": "Tender sliced beef and broccoli in a rich soy-garlic glaze over steamed rice.",
     "tags": [
       "Dinner",
@@ -1418,6 +1418,1149 @@
       "Sear beef in a hot skillet with sesame oil, 2 minutes per side. Remove.",
       "In the same pan, cook garlic 30 seconds. Add remaining soy sauce and brown sugar.",
       "Return beef and broccoli. Toss to coat. Serve over rice."
+    ]
+  },
+  {
+    "id": "r23",
+    "name": "Korean Bulgogi Bowls",
+    "emoji": "\ud83c\udf5a",
+    "description": "Sweet and savory marinated beef served over rice. A quick weeknight dinner full of Korean BBQ flavors.",
+    "tags": [
+      "Dinner",
+      "Korean",
+      "High Protein",
+      "Spicy"
+    ],
+    "prepTime": 15,
+    "cookTime": 15,
+    "servings": 4,
+    "calories": 450,
+    "estimatedCost": 3.5,
+    "ingredients": [
+      {
+        "name": "Thinly Sliced Beef",
+        "quantity": 1.0,
+        "unit": "lb",
+        "category": "Protein"
+      },
+      {
+        "name": "White Rice",
+        "quantity": 1.0,
+        "unit": "cup",
+        "category": "Grains & Pasta"
+      },
+      {
+        "name": "Soy Sauce",
+        "quantity": 0.25,
+        "unit": "cup",
+        "category": "Pantry"
+      },
+      {
+        "name": "Brown Sugar",
+        "quantity": 2.0,
+        "unit": "tbsp",
+        "category": "Pantry"
+      },
+      {
+        "name": "Carrots",
+        "quantity": 2.0,
+        "unit": "whole",
+        "category": "Produce"
+      },
+      {
+        "name": "Green Onions",
+        "quantity": 1.0,
+        "unit": "bunch",
+        "category": "Produce"
+      }
+    ],
+    "instructions": [
+      "Cook the white rice according to package directions.",
+      "In a bowl, mix soy sauce, brown sugar, and chopped green onions to create the marinade.",
+      "Marinate the thinly sliced beef for at least 10 minutes.",
+      "Shred the carrots and set aside.",
+      "Cook the beef in a hot skillet for 5-7 minutes until browned and cooked through.",
+      "Serve the beef and carrots over the cooked rice."
+    ]
+  },
+  {
+    "id": "r24",
+    "name": "Korean Bibimbap",
+    "emoji": "\ud83e\udd63",
+    "description": "A classic Korean rice bowl topped with seasoned vegetables, beef, and a fried egg. Perfect with spicy gochujang.",
+    "tags": [
+      "Dinner",
+      "Korean",
+      "Spicy",
+      "High Protein"
+    ],
+    "prepTime": 20,
+    "cookTime": 15,
+    "servings": 4,
+    "calories": 500,
+    "estimatedCost": 4.0,
+    "ingredients": [
+      {
+        "name": "White Rice",
+        "quantity": 1.0,
+        "unit": "cup",
+        "category": "Grains & Pasta"
+      },
+      {
+        "name": "Ground Beef",
+        "quantity": 0.5,
+        "unit": "lb",
+        "category": "Protein"
+      },
+      {
+        "name": "Eggs",
+        "quantity": 4.0,
+        "unit": "whole",
+        "category": "Protein"
+      },
+      {
+        "name": "Spinach",
+        "quantity": 1.0,
+        "unit": "bunch",
+        "category": "Produce"
+      },
+      {
+        "name": "Carrots",
+        "quantity": 2.0,
+        "unit": "whole",
+        "category": "Produce"
+      },
+      {
+        "name": "Gochujang",
+        "quantity": 2.0,
+        "unit": "tbsp",
+        "category": "Pantry"
+      }
+    ],
+    "instructions": [
+      "Cook the rice according to package instructions.",
+      "Blanch the spinach in boiling water, drain, and season with a little salt.",
+      "Julienne the carrots and saut\u00e9 briefly until tender.",
+      "Brown the ground beef in a skillet until fully cooked.",
+      "Fry the eggs sunny-side up.",
+      "Assemble bowls with rice, vegetables, beef, top with an egg, and serve with gochujang."
+    ]
+  },
+  {
+    "id": "r25",
+    "name": "BBQ Pulled Pork Sandwiches",
+    "emoji": "\ud83e\udd6a",
+    "description": "Tender, slow-cooked pulled pork smothered in BBQ sauce. Served on soft buns with a side of coleslaw.",
+    "tags": [
+      "Dinner",
+      "BBQ",
+      "Kid Friendly"
+    ],
+    "prepTime": 15,
+    "cookTime": 45,
+    "servings": 4,
+    "calories": 550,
+    "estimatedCost": 3.8,
+    "ingredients": [
+      {
+        "name": "Pork Shoulder",
+        "quantity": 1.5,
+        "unit": "lb",
+        "category": "Protein"
+      },
+      {
+        "name": "BBQ Sauce",
+        "quantity": 1.0,
+        "unit": "cup",
+        "category": "Pantry"
+      },
+      {
+        "name": "Hamburger Buns",
+        "quantity": 4.0,
+        "unit": "whole",
+        "category": "Grains & Pasta"
+      },
+      {
+        "name": "Cabbage",
+        "quantity": 0.5,
+        "unit": "head",
+        "category": "Produce"
+      },
+      {
+        "name": "Mayonnaise",
+        "quantity": 0.25,
+        "unit": "cup",
+        "category": "Pantry"
+      }
+    ],
+    "instructions": [
+      "Cut the pork shoulder into smaller chunks to cook faster.",
+      "Cook pork in a pressure cooker or simmer until tender enough to shred, about 40 minutes.",
+      "Shred the pork and mix it thoroughly with the BBQ sauce.",
+      "Thinly slice the cabbage and toss with mayonnaise to make a simple coleslaw.",
+      "Toast the buns lightly.",
+      "Assemble the sandwiches with the BBQ pork and a scoop of coleslaw."
+    ]
+  },
+  {
+    "id": "r26",
+    "name": "Spicy Korean Fried Rice",
+    "emoji": "\ud83c\udf73",
+    "description": "A quick and savory fried rice made with spicy kimchi and day-old rice. Topped with a perfectly fried egg.",
+    "tags": [
+      "Lunch",
+      "Korean",
+      "Spicy",
+      "Quick"
+    ],
+    "prepTime": 5,
+    "cookTime": 10,
+    "servings": 4,
+    "calories": 350,
+    "estimatedCost": 2.0,
+    "ingredients": [
+      {
+        "name": "Cooked White Rice",
+        "quantity": 3.0,
+        "unit": "cup",
+        "category": "Grains & Pasta"
+      },
+      {
+        "name": "Kimchi",
+        "quantity": 1.0,
+        "unit": "cup",
+        "category": "Produce"
+      },
+      {
+        "name": "Eggs",
+        "quantity": 4.0,
+        "unit": "whole",
+        "category": "Protein"
+      },
+      {
+        "name": "Sesame Oil",
+        "quantity": 1.0,
+        "unit": "tbsp",
+        "category": "Pantry"
+      },
+      {
+        "name": "Green Onions",
+        "quantity": 0.5,
+        "unit": "bunch",
+        "category": "Produce"
+      }
+    ],
+    "instructions": [
+      "Chop the kimchi into small, bite-sized pieces.",
+      "Heat sesame oil in a large pan and saut\u00e9 the kimchi for 2 minutes.",
+      "Add the cooked white rice to the pan and stir-fry until well combined and heated through.",
+      "In a separate pan, fry the eggs to your desired doneness.",
+      "Divide the fried rice into bowls.",
+      "Top each bowl with a fried egg and garnish with sliced green onions."
+    ]
+  },
+  {
+    "id": "r27",
+    "name": "BBQ Chicken Thighs with Corn",
+    "emoji": "\ud83c\udf57",
+    "description": "Juicy, oven-baked chicken thighs glazed with sweet BBQ sauce. Served alongside roasted corn on the cob.",
+    "tags": [
+      "Dinner",
+      "BBQ",
+      "High Protein",
+      "Kid Friendly",
+      "Gluten-Free"
+    ],
+    "prepTime": 10,
+    "cookTime": 35,
+    "servings": 4,
+    "calories": 480,
+    "estimatedCost": 3.2,
+    "ingredients": [
+      {
+        "name": "Chicken Thighs",
+        "quantity": 1.5,
+        "unit": "lb",
+        "category": "Protein"
+      },
+      {
+        "name": "BBQ Sauce",
+        "quantity": 0.5,
+        "unit": "cup",
+        "category": "Pantry"
+      },
+      {
+        "name": "Corn on the Cob",
+        "quantity": 4.0,
+        "unit": "whole",
+        "category": "Produce"
+      },
+      {
+        "name": "Olive Oil",
+        "quantity": 1.0,
+        "unit": "tbsp",
+        "category": "Pantry"
+      },
+      {
+        "name": "Salt",
+        "quantity": 1.0,
+        "unit": "tsp",
+        "category": "Spices"
+      }
+    ],
+    "instructions": [
+      "Preheat the oven to 400\u00b0F (200\u00b0C).",
+      "Season the chicken thighs with salt and arrange them on a baking sheet.",
+      "Bake the chicken for 25 minutes, then brush generously with BBQ sauce.",
+      "Rub the corn with olive oil and place them on the baking sheet alongside the chicken.",
+      "Bake for another 10 minutes until the chicken is cooked through and the corn is tender.",
+      "Serve the chicken and corn hot."
+    ]
+  },
+  {
+    "id": "r28",
+    "name": "Korean Japchae",
+    "emoji": "\ud83e\udd62",
+    "description": "Chewy sweet potato glass noodles stir-fried with colorful vegetables in a sweet and savory sesame sauce.",
+    "tags": [
+      "Dinner",
+      "Korean",
+      "Asian"
+    ],
+    "prepTime": 15,
+    "cookTime": 15,
+    "servings": 4,
+    "calories": 320,
+    "estimatedCost": 2.5,
+    "ingredients": [
+      {
+        "name": "Sweet Potato Noodles",
+        "quantity": 8.0,
+        "unit": "oz",
+        "category": "Grains & Pasta"
+      },
+      {
+        "name": "Spinach",
+        "quantity": 1.0,
+        "unit": "bunch",
+        "category": "Produce"
+      },
+      {
+        "name": "Carrots",
+        "quantity": 1.0,
+        "unit": "whole",
+        "category": "Produce"
+      },
+      {
+        "name": "Soy Sauce",
+        "quantity": 0.25,
+        "unit": "cup",
+        "category": "Pantry"
+      },
+      {
+        "name": "Sesame Oil",
+        "quantity": 2.0,
+        "unit": "tbsp",
+        "category": "Pantry"
+      },
+      {
+        "name": "Mushrooms",
+        "quantity": 8.0,
+        "unit": "oz",
+        "category": "Produce"
+      }
+    ],
+    "instructions": [
+      "Boil the sweet potato noodles according to the package instructions, then drain and rinse with cold water.",
+      "Blanch the spinach, squeeze out excess water, and chop roughly.",
+      "Slice the carrots and mushrooms thinly.",
+      "Saut\u00e9 the carrots and mushrooms in a pan with a little oil until tender.",
+      "In a large bowl, mix the noodles, cooked vegetables, soy sauce, and sesame oil.",
+      "Toss everything together until well combined and serve."
+    ]
+  },
+  {
+    "id": "r29",
+    "name": "Smoked Sausage & Peppers",
+    "emoji": "\ud83c\udf36\ufe0f",
+    "description": "Slices of savory smoked sausage saut\u00e9ed with sweet bell peppers and onions. A fast and flavorful weeknight dinner.",
+    "tags": [
+      "Dinner",
+      "BBQ",
+      "Quick",
+      "Kid Friendly"
+    ],
+    "prepTime": 10,
+    "cookTime": 15,
+    "servings": 4,
+    "calories": 420,
+    "estimatedCost": 2.8,
+    "ingredients": [
+      {
+        "name": "Smoked Sausage",
+        "quantity": 1.0,
+        "unit": "lb",
+        "category": "Protein"
+      },
+      {
+        "name": "Bell Peppers",
+        "quantity": 2.0,
+        "unit": "whole",
+        "category": "Produce"
+      },
+      {
+        "name": "Onions",
+        "quantity": 1.0,
+        "unit": "whole",
+        "category": "Produce"
+      },
+      {
+        "name": "Olive Oil",
+        "quantity": 1.0,
+        "unit": "tbsp",
+        "category": "Pantry"
+      },
+      {
+        "name": "White Rice",
+        "quantity": 1.0,
+        "unit": "cup",
+        "category": "Grains & Pasta"
+      }
+    ],
+    "instructions": [
+      "Cook the white rice according to the package instructions.",
+      "Slice the smoked sausage into rounds.",
+      "Slice the bell peppers and onions into thin strips.",
+      "Heat olive oil in a large skillet over medium-high heat and brown the sausage.",
+      "Add the peppers and onions to the skillet and saut\u00e9 until softened.",
+      "Serve the sausage and peppers over the warm rice."
+    ]
+  },
+  {
+    "id": "r30",
+    "name": "Spicy Peanut Noodles",
+    "emoji": "\ud83c\udf5c",
+    "description": "Cold noodles tossed in a rich, spicy peanut dressing with fresh cucumbers. A refreshing and quick vegetarian lunch.",
+    "tags": [
+      "Lunch",
+      "Asian",
+      "Spicy",
+      "Vegetarian"
+    ],
+    "prepTime": 10,
+    "cookTime": 10,
+    "servings": 4,
+    "calories": 400,
+    "estimatedCost": 1.5,
+    "ingredients": [
+      {
+        "name": "Wheat Noodles",
+        "quantity": 8.0,
+        "unit": "oz",
+        "category": "Grains & Pasta"
+      },
+      {
+        "name": "Peanut Butter",
+        "quantity": 0.25,
+        "unit": "cup",
+        "category": "Pantry"
+      },
+      {
+        "name": "Soy Sauce",
+        "quantity": 2.0,
+        "unit": "tbsp",
+        "category": "Pantry"
+      },
+      {
+        "name": "Chili Crisp",
+        "quantity": 1.0,
+        "unit": "tbsp",
+        "category": "Pantry"
+      },
+      {
+        "name": "Cucumber",
+        "quantity": 1.0,
+        "unit": "whole",
+        "category": "Produce"
+      }
+    ],
+    "instructions": [
+      "Boil the noodles until tender, then drain and rinse under cold water.",
+      "In a bowl, whisk together the peanut butter, soy sauce, chili crisp, and a splash of warm water.",
+      "Julienne the cucumber into thin strips.",
+      "Toss the cold noodles in the spicy peanut sauce until fully coated.",
+      "Top with the fresh cucumber strips before serving."
+    ]
+  },
+  {
+    "id": "r31",
+    "name": "BBQ Bacon Cheeseburgers",
+    "emoji": "\ud83c\udf54",
+    "description": "A juicy beef patty topped with melted cheddar, crispy bacon, and sweet BBQ sauce. The ultimate comfort food.",
+    "tags": [
+      "Dinner",
+      "BBQ",
+      "Kid Friendly",
+      "High Protein"
+    ],
+    "prepTime": 10,
+    "cookTime": 15,
+    "servings": 4,
+    "calories": 650,
+    "estimatedCost": 4.5,
+    "ingredients": [
+      {
+        "name": "Ground Beef",
+        "quantity": 1.0,
+        "unit": "lb",
+        "category": "Protein"
+      },
+      {
+        "name": "Bacon",
+        "quantity": 4.0,
+        "unit": "slices",
+        "category": "Protein"
+      },
+      {
+        "name": "Cheddar Cheese",
+        "quantity": 4.0,
+        "unit": "slices",
+        "category": "Dairy"
+      },
+      {
+        "name": "Hamburger Buns",
+        "quantity": 4.0,
+        "unit": "whole",
+        "category": "Grains & Pasta"
+      },
+      {
+        "name": "BBQ Sauce",
+        "quantity": 0.25,
+        "unit": "cup",
+        "category": "Pantry"
+      }
+    ],
+    "instructions": [
+      "Cook the bacon in a skillet until crispy, then set aside.",
+      "Form the ground beef into 4 patties and season with a pinch of salt.",
+      "Cook the patties in a hot pan for 4-5 minutes per side.",
+      "Place a slice of cheddar cheese on each patty during the last minute of cooking to melt.",
+      "Toast the hamburger buns.",
+      "Assemble the burgers with the cheesy patty, crispy bacon, and a drizzle of BBQ sauce."
+    ]
+  },
+  {
+    "id": "r32",
+    "name": "Korean Chicken Wings",
+    "emoji": "\ud83c\udf57",
+    "description": "Crispy baked chicken wings tossed in a sticky, sweet, and spicy gochujang glaze. Perfect for dinner or a snack.",
+    "tags": [
+      "Dinner",
+      "Korean",
+      "Spicy"
+    ],
+    "prepTime": 15,
+    "cookTime": 40,
+    "servings": 4,
+    "calories": 550,
+    "estimatedCost": 4.2,
+    "ingredients": [
+      {
+        "name": "Chicken Wings",
+        "quantity": 1.5,
+        "unit": "lb",
+        "category": "Protein"
+      },
+      {
+        "name": "Cornstarch",
+        "quantity": 2.0,
+        "unit": "tbsp",
+        "category": "Pantry"
+      },
+      {
+        "name": "Gochujang",
+        "quantity": 2.0,
+        "unit": "tbsp",
+        "category": "Pantry"
+      },
+      {
+        "name": "Soy Sauce",
+        "quantity": 1.0,
+        "unit": "tbsp",
+        "category": "Pantry"
+      },
+      {
+        "name": "Honey",
+        "quantity": 2.0,
+        "unit": "tbsp",
+        "category": "Pantry"
+      }
+    ],
+    "instructions": [
+      "Preheat the oven to 425\u00b0F (220\u00b0C).",
+      "Pat the chicken wings dry and toss them with cornstarch until lightly coated.",
+      "Bake the wings on a wire rack for 35-40 minutes until crispy and cooked through.",
+      "In a small saucepan, simmer the gochujang, soy sauce, and honey until slightly thickened.",
+      "Toss the hot, crispy wings in the glaze until fully coated.",
+      "Serve immediately while hot and sticky."
+    ]
+  },
+  {
+    "id": "r33",
+    "name": "Spicy Honey Garlic Chicken",
+    "emoji": "\ud83c\udf57",
+    "description": "Crispy pan-seared chicken tossed in a sweet and spicy honey garlic glaze. A crowd-pleasing protein-packed dinner.",
+    "tags": [
+      "Dinner",
+      "Spicy",
+      "Asian",
+      "High Protein",
+      "Kid Friendly"
+    ],
+    "prepTime": 10,
+    "cookTime": 15,
+    "servings": 4,
+    "calories": 450,
+    "estimatedCost": 2.5,
+    "ingredients": [
+      {
+        "name": "Chicken Breast",
+        "quantity": 1.5,
+        "unit": "lb",
+        "category": "Protein"
+      },
+      {
+        "name": "Honey",
+        "quantity": 0.25,
+        "unit": "cup",
+        "category": "Pantry"
+      },
+      {
+        "name": "Garlic",
+        "quantity": 4,
+        "unit": "cloves",
+        "category": "Produce"
+      },
+      {
+        "name": "Soy Sauce",
+        "quantity": 3,
+        "unit": "tbsp",
+        "category": "Pantry"
+      },
+      {
+        "name": "Sriracha",
+        "quantity": 1,
+        "unit": "tbsp",
+        "category": "Pantry"
+      }
+    ],
+    "instructions": [
+      "Cut chicken into bite-sized pieces.",
+      "Whisk together honey, minced garlic, soy sauce, and sriracha.",
+      "Pan-sear chicken in a skillet over medium-high heat until cooked through.",
+      "Pour the sauce over the chicken and simmer until thickened and sticky.",
+      "Serve hot, garnished with sesame seeds or green onions if desired."
+    ]
+  },
+  {
+    "id": "r34",
+    "name": "Breakfast Burritos",
+    "emoji": "\ud83c\udf2f",
+    "description": "Hearty flour tortillas stuffed with fluffy eggs, savory sausage, melted cheese, and fresh salsa.",
+    "tags": [
+      "Breakfast",
+      "Mexican",
+      "Kid Friendly",
+      "High Protein"
+    ],
+    "prepTime": 10,
+    "cookTime": 15,
+    "servings": 4,
+    "calories": 520,
+    "estimatedCost": 2.0,
+    "ingredients": [
+      {
+        "name": "Eggs",
+        "quantity": 8,
+        "unit": "large",
+        "category": "Dairy"
+      },
+      {
+        "name": "Breakfast Sausage",
+        "quantity": 0.5,
+        "unit": "lb",
+        "category": "Protein"
+      },
+      {
+        "name": "Cheddar Cheese",
+        "quantity": 1,
+        "unit": "cup",
+        "category": "Dairy"
+      },
+      {
+        "name": "Flour Tortillas",
+        "quantity": 4,
+        "unit": "large",
+        "category": "Grains & Pasta"
+      },
+      {
+        "name": "Salsa",
+        "quantity": 0.5,
+        "unit": "cup",
+        "category": "Produce"
+      }
+    ],
+    "instructions": [
+      "Brown and crumble the breakfast sausage in a skillet over medium heat.",
+      "Whisk eggs and pour them into the skillet with the cooked sausage, scrambling until set.",
+      "Warm the tortillas in the microwave or on a dry skillet.",
+      "Divide the egg and sausage mixture evenly among the tortillas, topping with cheese and salsa.",
+      "Fold the sides of the tortillas and roll tightly into burritos."
+    ]
+  },
+  {
+    "id": "r35",
+    "name": "Mediterranean Baked Chicken",
+    "emoji": "\ud83e\uded2",
+    "description": "Juicy baked chicken breasts topped with briny olives, sweet tomatoes, and tangy feta cheese.",
+    "tags": [
+      "Dinner",
+      "Mediterranean",
+      "High Protein",
+      "Gluten-Free"
+    ],
+    "prepTime": 15,
+    "cookTime": 25,
+    "servings": 4,
+    "calories": 380,
+    "estimatedCost": 3.5,
+    "ingredients": [
+      {
+        "name": "Chicken Breast",
+        "quantity": 1.5,
+        "unit": "lb",
+        "category": "Protein"
+      },
+      {
+        "name": "Cherry Tomatoes",
+        "quantity": 1,
+        "unit": "pint",
+        "category": "Produce"
+      },
+      {
+        "name": "Kalamata Olives",
+        "quantity": 0.5,
+        "unit": "cup",
+        "category": "Pantry"
+      },
+      {
+        "name": "Feta Cheese",
+        "quantity": 0.5,
+        "unit": "cup",
+        "category": "Dairy"
+      },
+      {
+        "name": "Olive Oil",
+        "quantity": 2,
+        "unit": "tbsp",
+        "category": "Pantry"
+      }
+    ],
+    "instructions": [
+      "Preheat oven to 400\u00b0F (200\u00b0C) and place chicken breasts in a baking dish.",
+      "Drizzle chicken with olive oil and season with salt, pepper, and oregano.",
+      "Scatter halved cherry tomatoes and pitted olives around the chicken.",
+      "Bake for 20-25 minutes until the chicken reaches 165\u00b0F internally.",
+      "Sprinkle crumbled feta cheese over the top before serving."
+    ]
+  },
+  {
+    "id": "r36",
+    "name": "Taco Meat & Cheese Nachos",
+    "emoji": "\ud83e\uddc0",
+    "description": "Crispy tortilla chips loaded with seasoned ground beef, melted cheese, and your favorite taco toppings.",
+    "tags": [
+      "Dinner",
+      "Mexican",
+      "Kid Friendly",
+      "Quick"
+    ],
+    "prepTime": 10,
+    "cookTime": 15,
+    "servings": 4,
+    "calories": 650,
+    "estimatedCost": 2.5,
+    "ingredients": [
+      {
+        "name": "Ground Beef",
+        "quantity": 1,
+        "unit": "lb",
+        "category": "Protein"
+      },
+      {
+        "name": "Taco Seasoning",
+        "quantity": 2,
+        "unit": "tbsp",
+        "category": "Spices"
+      },
+      {
+        "name": "Tortilla Chips",
+        "quantity": 1,
+        "unit": "bag",
+        "category": "Pantry"
+      },
+      {
+        "name": "Shredded Mexican Cheese Blend",
+        "quantity": 2,
+        "unit": "cups",
+        "category": "Dairy"
+      },
+      {
+        "name": "Jalapenos",
+        "quantity": 1,
+        "unit": "cup",
+        "category": "Produce"
+      }
+    ],
+    "instructions": [
+      "Brown the ground beef in a skillet, drain excess fat, and stir in taco seasoning and water.",
+      "Spread tortilla chips evenly on a large baking sheet.",
+      "Spoon the seasoned beef over the chips and sprinkle generously with cheese.",
+      "Bake at 400\u00b0F (200\u00b0C) for 5-7 minutes until the cheese is melted and bubbly.",
+      "Top with sliced jalapenos and serve immediately."
+    ]
+  },
+  {
+    "id": "r37",
+    "name": "Thai Basil Chicken",
+    "emoji": "\ud83c\udf3f",
+    "description": "A quick and spicy stir-fry featuring ground chicken, fresh basil, and fiery chilies.",
+    "tags": [
+      "Dinner",
+      "Asian",
+      "Spicy",
+      "Quick"
+    ],
+    "prepTime": 10,
+    "cookTime": 10,
+    "servings": 4,
+    "calories": 320,
+    "estimatedCost": 2.8,
+    "ingredients": [
+      {
+        "name": "Ground Chicken",
+        "quantity": 1,
+        "unit": "lb",
+        "category": "Protein"
+      },
+      {
+        "name": "Fresh Basil",
+        "quantity": 1,
+        "unit": "cup",
+        "category": "Produce"
+      },
+      {
+        "name": "Garlic",
+        "quantity": 4,
+        "unit": "cloves",
+        "category": "Produce"
+      },
+      {
+        "name": "Thai Chilies",
+        "quantity": 3,
+        "unit": "whole",
+        "category": "Produce"
+      },
+      {
+        "name": "Soy Sauce",
+        "quantity": 3,
+        "unit": "tbsp",
+        "category": "Pantry"
+      }
+    ],
+    "instructions": [
+      "Mince the garlic and finely chop the Thai chilies.",
+      "Saut\u00e9 garlic and chilies in oil over high heat until fragrant.",
+      "Add ground chicken, breaking it up and cooking until browned.",
+      "Stir in soy sauce and a splash of water, cooking until sauce coats the meat.",
+      "Remove from heat, fold in fresh basil leaves until wilted, and serve over rice."
+    ]
+  },
+  {
+    "id": "r38",
+    "name": "Mac & Cheese with Broccoli",
+    "emoji": "\ud83e\uddc0",
+    "description": "Creamy, cheesy stovetop macaroni perfectly paired with tender broccoli florets.",
+    "tags": [
+      "Lunch",
+      "Kid Friendly",
+      "Vegetarian"
+    ],
+    "prepTime": 5,
+    "cookTime": 15,
+    "servings": 4,
+    "calories": 480,
+    "estimatedCost": 1.5,
+    "ingredients": [
+      {
+        "name": "Macaroni Pasta",
+        "quantity": 8,
+        "unit": "oz",
+        "category": "Grains & Pasta"
+      },
+      {
+        "name": "Broccoli Florets",
+        "quantity": 2,
+        "unit": "cups",
+        "category": "Produce"
+      },
+      {
+        "name": "Milk",
+        "quantity": 1,
+        "unit": "cup",
+        "category": "Dairy"
+      },
+      {
+        "name": "Cheddar Cheese",
+        "quantity": 2,
+        "unit": "cups",
+        "category": "Dairy"
+      },
+      {
+        "name": "Butter",
+        "quantity": 2,
+        "unit": "tbsp",
+        "category": "Dairy"
+      }
+    ],
+    "instructions": [
+      "Boil macaroni in salted water according to package directions.",
+      "Add broccoli florets to the boiling pasta water during the last 3 minutes of cooking.",
+      "Drain pasta and broccoli and return to the warm pot.",
+      "Stir in butter and milk until the butter is melted.",
+      "Gradually add the shredded cheese, stirring constantly until a smooth sauce forms."
+    ]
+  },
+  {
+    "id": "r39",
+    "name": "Spicy Sausage Pasta",
+    "emoji": "\ud83c\udf5d",
+    "description": "Penne pasta tossed in a rich tomato sauce with crumbled spicy Italian sausage.",
+    "tags": [
+      "Dinner",
+      "Spicy",
+      "Healthy Comfort"
+    ],
+    "prepTime": 10,
+    "cookTime": 20,
+    "servings": 4,
+    "calories": 610,
+    "estimatedCost": 3.0,
+    "ingredients": [
+      {
+        "name": "Penne Pasta",
+        "quantity": 12,
+        "unit": "oz",
+        "category": "Grains & Pasta"
+      },
+      {
+        "name": "Spicy Italian Sausage",
+        "quantity": 1,
+        "unit": "lb",
+        "category": "Protein"
+      },
+      {
+        "name": "Crushed Tomatoes",
+        "quantity": 28,
+        "unit": "oz",
+        "category": "Pantry"
+      },
+      {
+        "name": "Onion",
+        "quantity": 1,
+        "unit": "medium",
+        "category": "Produce"
+      },
+      {
+        "name": "Red Pepper Flakes",
+        "quantity": 1,
+        "unit": "tsp",
+        "category": "Spices"
+      }
+    ],
+    "instructions": [
+      "Cook penne pasta in a large pot of salted boiling water until al dente.",
+      "Remove sausage from casings and brown in a large skillet with chopped onion.",
+      "Stir in crushed tomatoes and red pepper flakes, simmering for 10 minutes.",
+      "Drain pasta and add directly into the sauce, tossing to coat.",
+      "Serve warm, topped with grated parmesan if desired."
+    ]
+  },
+  {
+    "id": "r40",
+    "name": "Chicken Tikka Masala",
+    "emoji": "\ud83c\udf5b",
+    "description": "Tender chicken chunks simmered in a creamy, richly spiced tomato curry sauce.",
+    "tags": [
+      "Dinner",
+      "Spicy",
+      "Asian",
+      "High Protein"
+    ],
+    "prepTime": 15,
+    "cookTime": 30,
+    "servings": 4,
+    "calories": 550,
+    "estimatedCost": 4.0,
+    "ingredients": [
+      {
+        "name": "Chicken Thighs",
+        "quantity": 1.5,
+        "unit": "lb",
+        "category": "Protein"
+      },
+      {
+        "name": "Tomato Sauce",
+        "quantity": 15,
+        "unit": "oz",
+        "category": "Pantry"
+      },
+      {
+        "name": "Heavy Cream",
+        "quantity": 0.5,
+        "unit": "cup",
+        "category": "Dairy"
+      },
+      {
+        "name": "Garam Masala",
+        "quantity": 2,
+        "unit": "tbsp",
+        "category": "Spices"
+      },
+      {
+        "name": "Garlic",
+        "quantity": 3,
+        "unit": "cloves",
+        "category": "Produce"
+      }
+    ],
+    "instructions": [
+      "Cut chicken into chunks and brown in a pot over medium-high heat.",
+      "Add minced garlic and garam masala, cooking for 1 minute until fragrant.",
+      "Pour in tomato sauce and simmer for 15-20 minutes until chicken is cooked through.",
+      "Stir in heavy cream and heat gently without boiling.",
+      "Serve hot over steamed basmati rice."
+    ]
+  },
+  {
+    "id": "r41",
+    "name": "PB&J French Toast",
+    "emoji": "\ud83e\udd6a",
+    "description": "A fun twist on a classic! Peanut butter and jelly sandwiches dipped in egg batter and pan-fried to golden perfection.",
+    "tags": [
+      "Breakfast",
+      "Kid Friendly",
+      "Quick"
+    ],
+    "prepTime": 5,
+    "cookTime": 10,
+    "servings": 4,
+    "calories": 420,
+    "estimatedCost": 1.2,
+    "ingredients": [
+      {
+        "name": "Bread",
+        "quantity": 8,
+        "unit": "slices",
+        "category": "Grains & Pasta"
+      },
+      {
+        "name": "Peanut Butter",
+        "quantity": 4,
+        "unit": "tbsp",
+        "category": "Pantry"
+      },
+      {
+        "name": "Jelly",
+        "quantity": 4,
+        "unit": "tbsp",
+        "category": "Pantry"
+      },
+      {
+        "name": "Eggs",
+        "quantity": 2,
+        "unit": "large",
+        "category": "Dairy"
+      },
+      {
+        "name": "Milk",
+        "quantity": 0.25,
+        "unit": "cup",
+        "category": "Dairy"
+      }
+    ],
+    "instructions": [
+      "Make 4 peanut butter and jelly sandwiches.",
+      "Whisk together eggs and milk in a shallow dish.",
+      "Dip each sandwich into the egg mixture, coating both sides.",
+      "Cook on a buttered skillet over medium heat until golden brown on both sides.",
+      "Slice in half and serve warm."
+    ]
+  },
+  {
+    "id": "r42",
+    "name": "Honey Sriracha Meatballs",
+    "emoji": "\ud83e\uddc6",
+    "description": "Tender baked meatballs glazed in an irresistible sweet and spicy honey sriracha sauce.",
+    "tags": [
+      "Dinner",
+      "Spicy",
+      "Asian",
+      "Kid Friendly"
+    ],
+    "prepTime": 15,
+    "cookTime": 20,
+    "servings": 4,
+    "calories": 490,
+    "estimatedCost": 3.0,
+    "ingredients": [
+      {
+        "name": "Ground Beef",
+        "quantity": 1,
+        "unit": "lb",
+        "category": "Protein"
+      },
+      {
+        "name": "Panko Breadcrumbs",
+        "quantity": 0.5,
+        "unit": "cup",
+        "category": "Pantry"
+      },
+      {
+        "name": "Sriracha",
+        "quantity": 2,
+        "unit": "tbsp",
+        "category": "Pantry"
+      },
+      {
+        "name": "Honey",
+        "quantity": 3,
+        "unit": "tbsp",
+        "category": "Pantry"
+      },
+      {
+        "name": "Soy Sauce",
+        "quantity": 2,
+        "unit": "tbsp",
+        "category": "Pantry"
+      }
+    ],
+    "instructions": [
+      "Mix ground beef, breadcrumbs, and a pinch of salt, forming into 1-inch meatballs.",
+      "Place meatballs on a baking sheet and bake at 400\u00b0F (200\u00b0C) for 15-20 minutes.",
+      "In a small saucepan, whisk together honey, sriracha, and soy sauce, bringing to a simmer.",
+      "Toss the baked meatballs in the thickened sauce.",
+      "Serve over rice or noodles."
     ]
   }
 ]

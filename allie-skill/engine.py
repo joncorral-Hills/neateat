@@ -24,8 +24,12 @@ DAYS = ["monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sun
 MEALS = ["breakfast", "lunch", "dinner"]
 GROCERY_CATEGORIES = [
     "Produce", "Protein", "Dairy", "Grains & Pasta",
-    "Canned & Dry", "Oils & Condiments", "Spices",
+    "Pantry", "Canned & Dry", "Oils & Condiments", "Spices", "Frozen",
 ]
+
+# Family serving multiplier: 2 adults + 2 children ≈ 3 adult-equivalent servings
+# Children eat roughly half an adult portion on average
+FAMILY_ADULT_EQUIVALENT = 3
 
 
 def load_recipes() -> list[dict]:
@@ -62,7 +66,7 @@ def generate_plan(budget: float, preferences: Optional[dict] = None) -> dict:
         for pool in [lunch_recipes, dinner_recipes]:
             pool.sort(key=lambda r: r.get("macros", {}).get("protein", r.get("calories", 0)), reverse=True)
 
-    servings = prefs.get("servings", 2)
+    servings = prefs.get("servings", 4)
     plan = {}
     total_cost = 0
     used_dinner_ids: set[str] = set()
@@ -70,7 +74,7 @@ def generate_plan(budget: float, preferences: Optional[dict] = None) -> dict:
     for day in DAYS:
         plan[day] = {}
         is_weekend = day in ("saturday", "sunday")
-        max_prep = prefs.get("weekend_prep", 999) if is_weekend else prefs.get("weekday_prep", 30)
+        max_prep = prefs.get("weekend_prep", 999) if is_weekend else prefs.get("weekday_prep", 60)
 
         for meal in MEALS:
             if meal == "breakfast":
@@ -89,7 +93,7 @@ def generate_plan(budget: float, preferences: Optional[dict] = None) -> dict:
             # Budget-aware: prefer cheaper when tight
             remaining = budget - total_cost
             meals_left = sum(1 for d in DAYS[DAYS.index(day):] for m in MEALS) - MEALS.index(meal)
-            if meals_left > 0 and remaining / meals_left < 3.0:
+            if meals_left > 0 and remaining / meals_left < 8.0:
                 candidates.sort(key=lambda r: r["estimatedCost"])
 
             recipe = random.choice(candidates[:5]) if len(candidates) > 5 else random.choice(candidates)
